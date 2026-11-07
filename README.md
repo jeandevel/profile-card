@@ -34,3 +34,7 @@ Durante las **2.5 horas** de desarrollo de este proyecto, logré poner en práct
 
 ---
 Proyecto educativo desarrollado de forma independiente como parte de mi ruta de aprendizaje.
+
+<p>
+  <img src="https://img.shields.io/badge/github-repo-blue?logo=github">
+</p>
